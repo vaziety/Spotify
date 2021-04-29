@@ -38,7 +38,7 @@ console.log(process.version)
 ```json
 run="npm start"
 ```
-When you run the bot, You will not receive any errors BUT. If you try to play music on the bot. The bot will join your VC but and then it will leave the VC. It will not play anything. IDK maybe this project won't work on repl.it
+When you run the bot, It will let you use the lastest version of npm `16.0.1` and You will not receive any errors BUT. If you try to play music on the bot. The bot will join your VC but and then it will leave the VC. It will not play anything. IDK maybe this project won't work on repl.it
 
 ## Glitch
 For **Glitch** users, Uhm I don't know because i haven't used **Glitch**
