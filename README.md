@@ -5,4 +5,19 @@ This bot uses the [@distube/spotify](https://github.com/distubejs/spotify) made 
 - Make sure you have the latest version of npm `14.0.0 to 16.0.0`
 - These bot uses the beta version of `distube`
 - To use the beta version of `distube` join the official server of `distube`
-- 
+
+## Installation:
+- If you want to install **one** by **one**, These are the package that you install
+```json
+npm install @discordjs/opus
+npm install discord.js
+npm install ffmpeg-static
+npm install @distube/spotify
+```
+- If you want to install the beta verion of `distube` join the server `distube`
+
+- If you want to install all of the package
+```json
+npm install
+```
+- It will install all of the package
