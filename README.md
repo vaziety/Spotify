@@ -6,6 +6,18 @@ This bot uses the [@distube/spotify](https://github.com/distubejs/spotify) made 
 - These bot uses the beta version of `distube`
 - To use the beta version of `distube` join the official server of `distube`
 
+## Wanna Clone this Respository?
+- Fork or Download this Respository
+- Rename the `config.json.example` file to `config.json`
+- Put something on `config.json` file, like **token , prefix and etc**
+**Config.json**
+```json
+{
+  "token": "YOUR BOT TOKEN",
+  "prefix": "YOUR BOT PREFIX"
+}
+```
+
 ## Installation:
 If you want to install **one** by **one**, These are the package that you install
 ```json
