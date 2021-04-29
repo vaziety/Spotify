@@ -9,7 +9,7 @@ module.exports = {
         const nostring = new MessageEmbed()
             .setTitle("Spotify Player")
             .setColor("RANDOM")
-            .addField(`${client.prefix.prefix}play <URL>`, "**Spotify is also possible!**")
+            .addField(`${client.prefix.prefix}play <URL>`, "**Youtube/Spotify Song and Playlist are Supported!**")
         const string = args.join(" ")
         if (!string) return message.channel.send(nostring)
         if(!message.guild.me.voice.channel) {
@@ -23,5 +23,3 @@ module.exports = {
         }
     }
 }
-
-a
