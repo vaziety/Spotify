@@ -43,9 +43,9 @@ When you run the bot, You will not receive any errors BUT. If you try to play mu
 ## Glitch
 For **Glitch** users, Uhm I don't know because i haven't used **Glitch**
 
-### THATS ALL ❤️
+## THATS ALL ❤️
 
-### MADE WITH ❤️
+## MADE WITH ❤️
 
 ## Bot Made By :
 © Wonyoungieeeeeee#2004
