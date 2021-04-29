@@ -16,7 +16,8 @@ npm install @distube/spotify
 ```
 - If you want to install the beta verion of `distube` join the server `distube`
 
-- If you want to install all of the package
+## Installation 2:
+- If you want to install all of the packages
 ```json
 npm install
 ```
