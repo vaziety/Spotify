@@ -10,7 +10,10 @@ This bot uses the [@distube/spotify](https://github.com/distubejs/spotify) made 
 - Fork or Download this Respository
 - Rename the `config.json.example` file to `config.json`
 - Put something on `config.json` file, like **token , prefix and etc**
-**Config.json**
+- After putting the something `config.json` file
+- You can start the bot by putting `node index.js` in the terminal
+
+## Config.json
 ```json
 {
   "token": "YOUR BOT TOKEN",
