@@ -10,7 +10,7 @@ This bot uses the [@distube/spotify](https://github.com/distubejs/spotify) made 
 - Fork or Download this Respository
 - Rename the `config.json.example` file to `config.json`
 - Put something on `config.json` file, like **token , prefix and etc**
-- After putting the something `config.json` file
+- After putting something in `config.json` file
 - You can start the bot by putting `node index.js` in the terminal
 
 ## Config.json
@@ -65,7 +65,7 @@ For **Glitch** users, Uhm I don't know because i haven't used **Glitch**
 
 > GitHub [@Wonyoungieeeeeee][my github]  
 > Youtube **making `one` soon**  
-> Discord `Minju#2001`  
+> Discord `Riyu#9599`  
 
 
 [my github]: https://github.com/Wonyoungieeeeeee
