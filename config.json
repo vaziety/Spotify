@@ -1,6 +1,6 @@
 {
-  "token": "",
-  "prefix": "test?",
+  "token": "OTI0Mjg5Njc1NDk2MTU3MjA0.YccZ1w.uFKWTm2YKFItgWTeFVhSitliLKg",
+  "prefix": "!",
   "filters": {
           "clear": "dynaudnorm=f=200",
       "lowbass": "bass=g=6,dynaudnorm=f=200",
